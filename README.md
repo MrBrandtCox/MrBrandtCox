@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrBrandtCox
 - 👀 I’m interested in backpacking, hot springs, and of course coding.
-- 📫 How to reach me- Twitter:MrBrandtCox, Instagram: brandtdcox, Personal email: brandtleydavis@gmail.com, Discord: Brandtley  
+- 📫 How to reach me- Twitter:MrBrandtCox, Instagram: brandtdcox, Personal email: brandtleydavis@gmail.com, Discord: Brandtley#8242
