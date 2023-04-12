@@ -1,3 +1,3 @@
 - Hi, I’m Brandt 
-- I’m interested in backpacking, hot springs, and learning more code.
-- 📫 How to reach me- Twitter: MrBrandtCox, Personal email: brandtleydavis@gmail.com, Slack: U04D6K3AL7K .
+- I’m interested in backpacking, hot springs, and writing more code.
+- 📫 How to reach me- Twitter: MrBrandtCox, Personal email: brandtleydavis@gmail.com
