@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandt</h1>
 <h3 align="center">A passionate web developer from Louisiana.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbrandtcox" alt="mrbrandtcox" /></a> </p>
-
 - 📫 How to reach me **brandtleydavis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
