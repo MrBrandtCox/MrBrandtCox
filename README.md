@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandt</h1>
-<h3 align="center">A passionate web developer from Louisiana.</h3>
+<h3 align="center">A passionate web developer from Utah.</h3>
 
 - 📫 How to reach me **brandtleydev@gmail.com**
 
